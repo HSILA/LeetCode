@@ -1,0 +1,1 @@
+My original answer in `209_mine.py` is correct but since there is a `sum(window)` in the while, the complexity is O(N^2). So, it will result in a time limit exceeded (TLE) error. 
