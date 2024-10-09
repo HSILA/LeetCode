@@ -1,5 +1,4 @@
 # https://leetcode.com/problems/valid-palindrome/description/
-from typing import List
 
 
 class Solution:
